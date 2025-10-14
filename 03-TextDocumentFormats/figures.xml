@@ -27,11 +27,11 @@
         <name>Sześcian</name>
         <type>3D</type>
         <properties>
-            <property>side lenght</properties>
-        <properties>
+            <property>side length</property>
+        </properties>
         <formulas>
-            <area> lenght * lenght * 6 </area>
-            <voolume>lenght * lenght * lenght</volume>
+            <area> length * length * 6 </area>
+            <volume>length * length * length</volume>
         </formulas>
     </figure>
 </geometricFigures>

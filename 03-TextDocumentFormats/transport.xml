@@ -1,0 +1,24 @@
+<transport>
+
+    <bike>
+        <averageSpeed unit = "km/h"> 15</averageSpeed>
+        <passengerCapacity> 1 </passengerCapacity>
+        <TravelTime unit = "min"> 30 </TravelTime>
+        <TravelDIstance unit = "km"> 7.5 </TravelDIstance>
+    </bike>
+
+    <bus>
+        <averageSpeed unit = "km/h"> 40</averageSpeed>
+        <passengerCapacity> 50 </passengerCapacity>
+        <TravelTime unit = "min"> 20 </TravelTime>
+        <TravelDIstance unit = "km"> 13.3 </TravelDIstance>
+    </bus>
+
+    <train>
+        <averageSpeed unit = "km/h"> 60 </averageSpeed>
+        <passengerCapacity> 200 </passengerCapacity>
+        <TravelTime unit = "min"> 90 </TravelTime>
+        <TravelDIstance unit = "km"> 90 </TravelDIstance>
+    </train>
+
+</transport>

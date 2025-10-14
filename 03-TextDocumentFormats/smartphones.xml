@@ -9,4 +9,14 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+
+    <smartphone brand = "Samsung" model = "Galaxy A36" releaseYear = "2025">
+        <spec>
+            <screenSize unit = "inch">6.7</screenSize>
+            <batteryCapacity unit = "mAh">5000</batteryCapacity>
+            <storage unit = "GB"> 256 </storage>
+            <camera unit = "MP"> 50 </camera>
+        </spec>
+        <price currency = "PLN"> 1400 </price>
+    </smartphone>
 </smartphones>
