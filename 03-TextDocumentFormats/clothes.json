@@ -54,4 +54,26 @@
             "Accessories"
         ]
     }
+    {
+        "name": "Patagonia Inc.",
+        "founded": 1973,
+        "headquarters": "Ventura, California, USA",
+        "employees": 3000,
+        "products": [
+        "Outdoor Clothing",
+        "Gear for climbing, skiing, surfing",
+        "Sport Accessories"
+        ]
+    }
+    {
+        "name": "Lululemon Athletica",
+        "founded": 1998,
+        "headquarters": "Vancouver, British Columbia, Canada",
+        "employees": 39000,
+        "products": [
+        "Athletic and Yoga Apparel",
+        "Leggings",
+        "Jackets and Accessories"
+        ]
+    }
 ]
