@@ -1,0 +1,12 @@
+[
+    {
+        "ticket_id" : "SKA29813471",
+        "passanger_name" : "Jan Kowalski",
+        "route" : {
+            "from" : "Oswiecim",
+            "to" : "Krakow"
+         },
+         "class" : 2,
+         "price" : 9.99
+    }
+]
