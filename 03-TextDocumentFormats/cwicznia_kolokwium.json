@@ -1,0 +1,22 @@
+[
+    {
+        "int": 1234,
+        "string": "string",
+        "bool": {
+            "tak": true,
+            "nie": false
+        },
+        "float": 1234.567,
+        "tablica": ["pierwszy", "drugi", "trzeci"],
+        "jesze takie drzewko": {
+            "pierwszy": true,
+            "drugi": "jest",
+            "trzeci": 15
+        }
+    },
+    {
+        "jesze": "cos takiego",
+        "moge": "miec kilka",
+        "elementow": true
+    }
+]
