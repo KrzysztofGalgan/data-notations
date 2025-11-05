@@ -1,0 +1,42 @@
+body {
+    align-items: center;
+    justify-content: center;
+    height: 80%;
+    background-color: grey;
+    font-family: sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+form {
+    width:250px;
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 25px;
+}
+
+input[type="submit"]{
+    background-color: grey;
+    margin-bottom: 10px;
+}
+input[type="submit"]:hover {
+    background-color: aqua;
+}
+
+select,
+input,
+textarea {
+    border-color: blue;
+    width: 85%;
+}
